@@ -1,0 +1,10 @@
+id=pixelboot_g20
+name=Pixel Boot Animation — Moto G20
+version=1.0.0
+versionCode=100
+author=Milton
+description=Pixel-style boot animation optimised for 720x1600 (Moto G20). Installs as a safe Magisk overlay; reversible via Magisk Manager. Tested on Pixel-like GSIs; preserves original files and is uninstallable.
+minMagisk=24.0.0
+supported_android_versions=12,13,14
+license=MIT
+changelog=Initial release: optimized desc.txt for 720x1600, proper Store zip compression, Magisk overlay structure (system/product/media).
