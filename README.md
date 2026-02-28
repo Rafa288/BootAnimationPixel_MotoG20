@@ -24,8 +24,6 @@ It may not work correctly on stock ROMs or other custom ROMs.
 
 \- Designed for Pixel Experience GSI boot sequence
 
-\- Clean background (white/black depending on build)
-
 \- Systemless installation via Magisk
 
 \- Safe and fully reversible
@@ -167,4 +165,5 @@ Optimized desc.txt for 720x1600
 Correct Magisk module structure
 
 Tested on Pixel Experience GSI
+
 
